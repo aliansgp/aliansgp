@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Saly Abdollahian
 - 👀 I’m interested in learn new things about IOT,AI, Etc.
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me IAmTheRealSaly@gmail.com
