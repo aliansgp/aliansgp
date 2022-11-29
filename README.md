@@ -1,2 +1,2 @@
 - 👋 Hi, I’m ali Abdollahian
-- 👀 I’m interested in learn new things about IOT,AI, Etc.
+- 👀 I’m interested in learn new things about IOT & AI.
