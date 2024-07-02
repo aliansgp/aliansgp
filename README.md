@@ -1,2 +1,2 @@
 - 👋 Hi, I’m ali Abdollahian
-- 👀 I’m interested in learn new things about Robotic & AI.
+- 👀 interested in learn new things about Robotic & AI.
